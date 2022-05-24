@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-  package="com.appsflyerexample">
+  package="mx.com.modelorama.now">
 
     <uses-permission android:name="android.permission.INTERNET" />
 
@@ -21,16 +21,13 @@
             <category android:name="android.intent.category.LAUNCHER" />
         </intent-filter>
 
-          <intent-filter android:autoVerify="true">
-              <action android:name="android.intent.action.VIEW" />
-
-              <category android:name="android.intent.category.DEFAULT" />
-              <category android:name="android.intent.category.BROWSABLE" />
-
-              <data
-                  android:host="af-rn-git.onelink.me"
-                  android:pathPrefix="/oW4R"
-                  android:scheme="https" />
+        <intent-filter  android:autoVerify="true">
+            <action android:name="android.intent.action.VIEW" />
+            <category android:name="android.intent.category.DEFAULT" />
+            <category android:name="android.intent.category.BROWSABLE" />
+            <data android:scheme="https"
+                  android:host="modeloramanowtest.onelink.me"
+                  android:pathPrefix="/jGaU" />
           </intent-filter>
       </activity>
     </application>

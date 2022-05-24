@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "AppsFlyerExample.app"
-               BlueprintName = "AppsFlyerExample"
-               ReferencedContainer = "container:AppsFlyerExample.xcodeproj">
+               BuildableName = "ModeloramaNowTEST.app"
+               BlueprintName = "ModeloramaNowTEST"
+               ReferencedContainer = "container:ModeloramaNowTEST.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "AppsFlyerExampleTests.xctest"
-               BlueprintName = "AppsFlyerExampleTests"
-               ReferencedContainer = "container:AppsFlyerExample.xcodeproj">
+               BuildableName = "ModeloramaNowTESTTests.xctest"
+               BlueprintName = "ModeloramaNowTESTTests"
+               ReferencedContainer = "container:ModeloramaNowTEST.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "AppsFlyerExample.app"
-            BlueprintName = "AppsFlyerExample"
-            ReferencedContainer = "container:AppsFlyerExample.xcodeproj">
+            BuildableName = "ModeloramaNowTEST.app"
+            BlueprintName = "ModeloramaNowTEST"
+            ReferencedContainer = "container:ModeloramaNowTEST.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "AppsFlyerExample.app"
-            BlueprintName = "AppsFlyerExample"
-            ReferencedContainer = "container:AppsFlyerExample.xcodeproj">
+            BuildableName = "ModeloramaNowTEST.app"
+            BlueprintName = "ModeloramaNowTEST"
+            ReferencedContainer = "container:ModeloramaNowTEST.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

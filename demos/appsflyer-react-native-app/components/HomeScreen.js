@@ -134,11 +134,12 @@ const HomeScreen = ({navigation}) => {
   };
 
   // AppsFlyer initialization!
-  useEffect(() => {
+  /*  useEffect(() => {
+    console.log('HERE:');
     // eslint-disable-next-line react-hooks/exhaustive-deps
     AFGCDListener = appsFlyer.onInstallConversionData(res => {
       const isFirstLaunch = res?.data?.is_first_launch;
-
+      console.log('onInstallConversionData:', res);
       if (isFirstLaunch && JSON.parse(isFirstLaunch) === true) {
         setIsFirstLaunch(true);
       } else {
@@ -148,6 +149,7 @@ const HomeScreen = ({navigation}) => {
 
     // eslint-disable-next-line react-hooks/exhaustive-deps
     AFUDLListener = appsFlyer.onDeepLink(res => {
+      console.log('openDeepLink:', res);
       if (res?.deepLinkStatus !== 'NOT_FOUND') {
         const productName = res?.data?.af_productName;
         const product = getProductByName(productName);
@@ -167,7 +169,7 @@ const HomeScreen = ({navigation}) => {
       AFGCDListener();
       AFUDLListener();
     };
-  }, []);
+  }, []); */
 
   useEffect(() => {}, [itemsInCart]);
 

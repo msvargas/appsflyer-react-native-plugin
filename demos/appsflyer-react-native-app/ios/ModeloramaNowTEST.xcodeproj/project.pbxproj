@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		00E356F31AD99517003FC87E /* AppsFlyerExampleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* AppsFlyerExampleTests.m */; };
+		00E356F31AD99517003FC87E /* ModeloramaNowTESTTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* ModeloramaNowTESTTests.m */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		758FBD406B8A60C781CB65C7 /* libPods-AppsFlyerExample.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3772C10A05F15474D2AE8E5B /* libPods-AppsFlyerExample.a */; };
+		758FBD406B8A60C781CB65C7 /* libPods-ModeloramaNowTEST.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3772C10A05F15474D2AE8E5B /* libPods-ModeloramaNowTEST.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
-		8A99A8955B526C01707AFBFA /* libPods-AppsFlyerExample-AppsFlyerExampleTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 1C982642725666DF8D1E1F96 /* libPods-AppsFlyerExample-AppsFlyerExampleTests.a */; };
+		8A99A8955B526C01707AFBFA /* libPods-ModeloramaNowTEST-ModeloramaNowTESTTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 1C982642725666DF8D1E1F96 /* libPods-ModeloramaNowTEST-ModeloramaNowTESTTests.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -22,29 +22,29 @@
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 13B07F861A680F5B00A75B9A;
-			remoteInfo = AppsFlyerExample;
+			remoteInfo = ModeloramaNowTEST;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		00E356EE1AD99517003FC87E /* AppsFlyerExampleTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AppsFlyerExampleTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		00E356EE1AD99517003FC87E /* ModeloramaNowTESTTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ModeloramaNowTESTTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		00E356F21AD99517003FC87E /* AppsFlyerExampleTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppsFlyerExampleTests.m; sourceTree = "<group>"; };
-		13B07F961A680F5B00A75B9A /* AppsFlyerExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AppsFlyerExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = AppsFlyerExample/AppDelegate.h; sourceTree = "<group>"; };
-		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = AppsFlyerExample/AppDelegate.m; sourceTree = "<group>"; };
-		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = AppsFlyerExample/Images.xcassets; sourceTree = "<group>"; };
-		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = AppsFlyerExample/Info.plist; sourceTree = "<group>"; };
-		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = AppsFlyerExample/main.m; sourceTree = "<group>"; };
-		1C982642725666DF8D1E1F96 /* libPods-AppsFlyerExample-AppsFlyerExampleTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-AppsFlyerExample-AppsFlyerExampleTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		3772C10A05F15474D2AE8E5B /* libPods-AppsFlyerExample.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-AppsFlyerExample.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		5CAE30CF50FDE233EFB84891 /* Pods-AppsFlyerExample.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AppsFlyerExample.release.xcconfig"; path = "Target Support Files/Pods-AppsFlyerExample/Pods-AppsFlyerExample.release.xcconfig"; sourceTree = "<group>"; };
-		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = AppsFlyerExample/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		BE4C6B4402435E3245DA5B5C /* Pods-AppsFlyerExample.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AppsFlyerExample.debug.xcconfig"; path = "Target Support Files/Pods-AppsFlyerExample/Pods-AppsFlyerExample.debug.xcconfig"; sourceTree = "<group>"; };
-		C6E030350442BE719CA4C6F7 /* Pods-AppsFlyerExample-AppsFlyerExampleTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AppsFlyerExample-AppsFlyerExampleTests.debug.xcconfig"; path = "Target Support Files/Pods-AppsFlyerExample-AppsFlyerExampleTests/Pods-AppsFlyerExample-AppsFlyerExampleTests.debug.xcconfig"; sourceTree = "<group>"; };
-		E3122EACB4600C968024FA8D /* Pods-AppsFlyerExample-AppsFlyerExampleTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AppsFlyerExample-AppsFlyerExampleTests.release.xcconfig"; path = "Target Support Files/Pods-AppsFlyerExample-AppsFlyerExampleTests/Pods-AppsFlyerExample-AppsFlyerExampleTests.release.xcconfig"; sourceTree = "<group>"; };
+		00E356F21AD99517003FC87E /* ModeloramaNowTESTTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ModeloramaNowTESTTests.m; sourceTree = "<group>"; };
+		13B07F961A680F5B00A75B9A /* ModeloramaNowTEST.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ModeloramaNowTEST.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = ModeloramaNowTEST/AppDelegate.h; sourceTree = "<group>"; };
+		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = ModeloramaNowTEST/AppDelegate.m; sourceTree = "<group>"; };
+		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = ModeloramaNowTEST/Images.xcassets; sourceTree = "<group>"; };
+		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = ModeloramaNowTEST/Info.plist; sourceTree = "<group>"; };
+		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = ModeloramaNowTEST/main.m; sourceTree = "<group>"; };
+		1C982642725666DF8D1E1F96 /* libPods-ModeloramaNowTEST-ModeloramaNowTESTTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ModeloramaNowTEST-ModeloramaNowTESTTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3772C10A05F15474D2AE8E5B /* libPods-ModeloramaNowTEST.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ModeloramaNowTEST.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5CAE30CF50FDE233EFB84891 /* Pods-ModeloramaNowTEST.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ModeloramaNowTEST.release.xcconfig"; path = "Target Support Files/Pods-ModeloramaNowTEST/Pods-ModeloramaNowTEST.release.xcconfig"; sourceTree = "<group>"; };
+		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = ModeloramaNowTEST/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		BE4C6B4402435E3245DA5B5C /* Pods-ModeloramaNowTEST.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ModeloramaNowTEST.debug.xcconfig"; path = "Target Support Files/Pods-ModeloramaNowTEST/Pods-ModeloramaNowTEST.debug.xcconfig"; sourceTree = "<group>"; };
+		C6E030350442BE719CA4C6F7 /* Pods-ModeloramaNowTEST-ModeloramaNowTESTTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ModeloramaNowTEST-ModeloramaNowTESTTests.debug.xcconfig"; path = "Target Support Files/Pods-ModeloramaNowTEST-ModeloramaNowTESTTests/Pods-ModeloramaNowTEST-ModeloramaNowTESTTests.debug.xcconfig"; sourceTree = "<group>"; };
+		E3122EACB4600C968024FA8D /* Pods-ModeloramaNowTEST-ModeloramaNowTESTTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ModeloramaNowTEST-ModeloramaNowTESTTests.release.xcconfig"; path = "Target Support Files/Pods-ModeloramaNowTEST-ModeloramaNowTESTTests/Pods-ModeloramaNowTEST-ModeloramaNowTESTTests.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
-		EDCF29CA26F74C8F000729D4 /* AppsFlyerExample.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; name = AppsFlyerExample.entitlements; path = AppsFlyerExample/AppsFlyerExample.entitlements; sourceTree = "<group>"; };
+		EDCF29CA26F74C8F000729D4 /* ModeloramaNowTEST.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; name = ModeloramaNowTEST.entitlements; path = ModeloramaNowTEST/ModeloramaNowTEST.entitlements; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,7 +52,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8A99A8955B526C01707AFBFA /* libPods-AppsFlyerExample-AppsFlyerExampleTests.a in Frameworks */,
+				8A99A8955B526C01707AFBFA /* libPods-ModeloramaNowTEST-ModeloramaNowTESTTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -60,20 +60,20 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				758FBD406B8A60C781CB65C7 /* libPods-AppsFlyerExample.a in Frameworks */,
+				758FBD406B8A60C781CB65C7 /* libPods-ModeloramaNowTEST.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		00E356EF1AD99517003FC87E /* AppsFlyerExampleTests */ = {
+		00E356EF1AD99517003FC87E /* ModeloramaNowTESTTests */ = {
 			isa = PBXGroup;
 			children = (
-				00E356F21AD99517003FC87E /* AppsFlyerExampleTests.m */,
+				00E356F21AD99517003FC87E /* ModeloramaNowTESTTests.m */,
 				00E356F01AD99517003FC87E /* Supporting Files */,
 			);
-			path = AppsFlyerExampleTests;
+			path = ModeloramaNowTESTTests;
 			sourceTree = "<group>";
 		};
 		00E356F01AD99517003FC87E /* Supporting Files */ = {
@@ -84,10 +84,10 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		13B07FAE1A68108700A75B9A /* AppsFlyerExample */ = {
+		13B07FAE1A68108700A75B9A /* ModeloramaNowTEST */ = {
 			isa = PBXGroup;
 			children = (
-				EDCF29CA26F74C8F000729D4 /* AppsFlyerExample.entitlements */,
+				EDCF29CA26F74C8F000729D4 /* ModeloramaNowTEST.entitlements */,
 				13B07FAF1A68108700A75B9A /* AppDelegate.h */,
 				13B07FB01A68108700A75B9A /* AppDelegate.m */,
 				13B07FB51A68108700A75B9A /* Images.xcassets */,
@@ -95,15 +95,15 @@
 				81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */,
 				13B07FB71A68108700A75B9A /* main.m */,
 			);
-			name = AppsFlyerExample;
+			name = ModeloramaNowTEST;
 			sourceTree = "<group>";
 		};
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
-				3772C10A05F15474D2AE8E5B /* libPods-AppsFlyerExample.a */,
-				1C982642725666DF8D1E1F96 /* libPods-AppsFlyerExample-AppsFlyerExampleTests.a */,
+				3772C10A05F15474D2AE8E5B /* libPods-ModeloramaNowTEST.a */,
+				1C982642725666DF8D1E1F96 /* libPods-ModeloramaNowTEST-ModeloramaNowTESTTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -111,10 +111,10 @@
 		82A9707B82F91C9BFF6E0016 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				BE4C6B4402435E3245DA5B5C /* Pods-AppsFlyerExample.debug.xcconfig */,
-				5CAE30CF50FDE233EFB84891 /* Pods-AppsFlyerExample.release.xcconfig */,
-				C6E030350442BE719CA4C6F7 /* Pods-AppsFlyerExample-AppsFlyerExampleTests.debug.xcconfig */,
-				E3122EACB4600C968024FA8D /* Pods-AppsFlyerExample-AppsFlyerExampleTests.release.xcconfig */,
+				BE4C6B4402435E3245DA5B5C /* Pods-ModeloramaNowTEST.debug.xcconfig */,
+				5CAE30CF50FDE233EFB84891 /* Pods-ModeloramaNowTEST.release.xcconfig */,
+				C6E030350442BE719CA4C6F7 /* Pods-ModeloramaNowTEST-ModeloramaNowTESTTests.debug.xcconfig */,
+				E3122EACB4600C968024FA8D /* Pods-ModeloramaNowTEST-ModeloramaNowTESTTests.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -129,9 +129,9 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
-				13B07FAE1A68108700A75B9A /* AppsFlyerExample */,
+				13B07FAE1A68108700A75B9A /* ModeloramaNowTEST */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
-				00E356EF1AD99517003FC87E /* AppsFlyerExampleTests */,
+				00E356EF1AD99517003FC87E /* ModeloramaNowTESTTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				82A9707B82F91C9BFF6E0016 /* Pods */,
@@ -144,8 +144,8 @@
 		83CBBA001A601CBA00E9B192 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				13B07F961A680F5B00A75B9A /* AppsFlyerExample.app */,
-				00E356EE1AD99517003FC87E /* AppsFlyerExampleTests.xctest */,
+				13B07F961A680F5B00A75B9A /* ModeloramaNowTEST.app */,
+				00E356EE1AD99517003FC87E /* ModeloramaNowTESTTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -153,9 +153,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		00E356ED1AD99517003FC87E /* AppsFlyerExampleTests */ = {
+		00E356ED1AD99517003FC87E /* ModeloramaNowTESTTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "AppsFlyerExampleTests" */;
+			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "ModeloramaNowTESTTests" */;
 			buildPhases = (
 				C53414E99C4F14C38D0D0800 /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
@@ -169,14 +169,14 @@
 			dependencies = (
 				00E356F51AD99517003FC87E /* PBXTargetDependency */,
 			);
-			name = AppsFlyerExampleTests;
-			productName = AppsFlyerExampleTests;
-			productReference = 00E356EE1AD99517003FC87E /* AppsFlyerExampleTests.xctest */;
+			name = ModeloramaNowTESTTests;
+			productName = ModeloramaNowTESTTests;
+			productReference = 00E356EE1AD99517003FC87E /* ModeloramaNowTESTTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		13B07F861A680F5B00A75B9A /* AppsFlyerExample */ = {
+		13B07F861A680F5B00A75B9A /* ModeloramaNowTEST */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "AppsFlyerExample" */;
+			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "ModeloramaNowTEST" */;
 			buildPhases = (
 				D9F717B1F4B3A05EA3D95AA4 /* [CP] Check Pods Manifest.lock */,
 				FD10A7F022414F080027D42C /* Start Packager */,
@@ -191,9 +191,9 @@
 			);
 			dependencies = (
 			);
-			name = AppsFlyerExample;
-			productName = AppsFlyerExample;
-			productReference = 13B07F961A680F5B00A75B9A /* AppsFlyerExample.app */;
+			name = ModeloramaNowTEST;
+			productName = ModeloramaNowTEST;
+			productReference = 13B07F961A680F5B00A75B9A /* ModeloramaNowTEST.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -213,7 +213,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "AppsFlyerExample" */;
+			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "ModeloramaNowTEST" */;
 			compatibilityVersion = "Xcode 12.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -226,8 +226,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				13B07F861A680F5B00A75B9A /* AppsFlyerExample */,
-				00E356ED1AD99517003FC87E /* AppsFlyerExampleTests */,
+				13B07F861A680F5B00A75B9A /* ModeloramaNowTEST */,
+				00E356ED1AD99517003FC87E /* ModeloramaNowTESTTests */,
 			);
 		};
 /* End PBXProject section */
@@ -272,15 +272,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-AppsFlyerExample/Pods-AppsFlyerExample-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-ModeloramaNowTEST/Pods-ModeloramaNowTEST-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-AppsFlyerExample/Pods-AppsFlyerExample-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-ModeloramaNowTEST/Pods-ModeloramaNowTEST-frameworks-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-AppsFlyerExample/Pods-AppsFlyerExample-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-ModeloramaNowTEST/Pods-ModeloramaNowTEST-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		4721923C614EE6D1A58C11F1 /* [CP] Copy Pods Resources */ = {
@@ -289,15 +289,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-AppsFlyerExample/Pods-AppsFlyerExample-resources-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-ModeloramaNowTEST/Pods-ModeloramaNowTEST-resources-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Copy Pods Resources";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-AppsFlyerExample/Pods-AppsFlyerExample-resources-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-ModeloramaNowTEST/Pods-ModeloramaNowTEST-resources-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-AppsFlyerExample/Pods-AppsFlyerExample-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-ModeloramaNowTEST/Pods-ModeloramaNowTEST-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		886093803E0B787FACAB784A /* [CP] Copy Pods Resources */ = {
@@ -306,15 +306,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-AppsFlyerExample-AppsFlyerExampleTests/Pods-AppsFlyerExample-AppsFlyerExampleTests-resources-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-ModeloramaNowTEST-ModeloramaNowTESTTests/Pods-ModeloramaNowTEST-ModeloramaNowTESTTests-resources-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Copy Pods Resources";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-AppsFlyerExample-AppsFlyerExampleTests/Pods-AppsFlyerExample-AppsFlyerExampleTests-resources-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-ModeloramaNowTEST-ModeloramaNowTESTTests/Pods-ModeloramaNowTEST-ModeloramaNowTESTTests-resources-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-AppsFlyerExample-AppsFlyerExampleTests/Pods-AppsFlyerExample-AppsFlyerExampleTests-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-ModeloramaNowTEST-ModeloramaNowTESTTests/Pods-ModeloramaNowTEST-ModeloramaNowTESTTests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		C53414E99C4F14C38D0D0800 /* [CP] Check Pods Manifest.lock */ = {
@@ -332,7 +332,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-AppsFlyerExample-AppsFlyerExampleTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-ModeloramaNowTEST-ModeloramaNowTESTTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -354,7 +354,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-AppsFlyerExample-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-ModeloramaNowTEST-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -367,15 +367,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-AppsFlyerExample-AppsFlyerExampleTests/Pods-AppsFlyerExample-AppsFlyerExampleTests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-ModeloramaNowTEST-ModeloramaNowTESTTests/Pods-ModeloramaNowTEST-ModeloramaNowTESTTests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-AppsFlyerExample-AppsFlyerExampleTests/Pods-AppsFlyerExample-AppsFlyerExampleTests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-ModeloramaNowTEST-ModeloramaNowTESTTests/Pods-ModeloramaNowTEST-ModeloramaNowTESTTests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-AppsFlyerExample-AppsFlyerExampleTests/Pods-AppsFlyerExample-AppsFlyerExampleTests-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-ModeloramaNowTEST-ModeloramaNowTESTTests/Pods-ModeloramaNowTEST-ModeloramaNowTESTTests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		FD10A7F022414F080027D42C /* Start Packager */ = {
@@ -404,7 +404,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				00E356F31AD99517003FC87E /* AppsFlyerExampleTests.m in Sources */,
+				00E356F31AD99517003FC87E /* ModeloramaNowTESTTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -422,7 +422,7 @@
 /* Begin PBXTargetDependency section */
 		00E356F51AD99517003FC87E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 13B07F861A680F5B00A75B9A /* AppsFlyerExample */;
+			target = 13B07F861A680F5B00A75B9A /* ModeloramaNowTEST */;
 			targetProxy = 00E356F41AD99517003FC87E /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -430,14 +430,14 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = C6E030350442BE719CA4C6F7 /* Pods-AppsFlyerExample-AppsFlyerExampleTests.debug.xcconfig */;
+			baseConfigurationReference = C6E030350442BE719CA4C6F7 /* Pods-ModeloramaNowTEST-ModeloramaNowTESTTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = AppsFlyerExampleTests/Info.plist;
+				INFOPLIST_FILE = ModeloramaNowTESTTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -451,17 +451,17 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AppsFlyerExample.app/AppsFlyerExample";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ModeloramaNowTEST.app/ModeloramaNowTEST";
 			};
 			name = Debug;
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = E3122EACB4600C968024FA8D /* Pods-AppsFlyerExample-AppsFlyerExampleTests.release.xcconfig */;
+			baseConfigurationReference = E3122EACB4600C968024FA8D /* Pods-ModeloramaNowTEST-ModeloramaNowTESTTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
-				INFOPLIST_FILE = AppsFlyerExampleTests/Info.plist;
+				INFOPLIST_FILE = ModeloramaNowTESTTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -475,21 +475,21 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AppsFlyerExample.app/AppsFlyerExample";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ModeloramaNowTEST.app/ModeloramaNowTEST";
 			};
 			name = Release;
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = BE4C6B4402435E3245DA5B5C /* Pods-AppsFlyerExample.debug.xcconfig */;
+			baseConfigurationReference = BE4C6B4402435E3245DA5B5C /* Pods-ModeloramaNowTEST.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
-				CODE_SIGN_ENTITLEMENTS = AppsFlyerExample/AppsFlyerExample.entitlements;
+				CODE_SIGN_ENTITLEMENTS = ModeloramaNowTEST/ModeloramaNowTEST.entitlements;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 6UQAD4B3U2;
 				ENABLE_BITCODE = NO;
-				INFOPLIST_FILE = AppsFlyerExample/Info.plist;
+				INFOPLIST_FILE = ModeloramaNowTEST/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -499,8 +499,8 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.AppsFlyer.AppsFlyerExample;
-				PRODUCT_NAME = AppsFlyerExample;
+				PRODUCT_BUNDLE_IDENTIFIER = com.AppsFlyer.ModeloramaNowTEST;
+				PRODUCT_NAME = ModeloramaNowTEST;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -509,14 +509,14 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5CAE30CF50FDE233EFB84891 /* Pods-AppsFlyerExample.release.xcconfig */;
+			baseConfigurationReference = 5CAE30CF50FDE233EFB84891 /* Pods-ModeloramaNowTEST.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
-				CODE_SIGN_ENTITLEMENTS = AppsFlyerExample/AppsFlyerExample.entitlements;
+				CODE_SIGN_ENTITLEMENTS = ModeloramaNowTEST/ModeloramaNowTEST.entitlements;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 6UQAD4B3U2;
-				INFOPLIST_FILE = AppsFlyerExample/Info.plist;
+				INFOPLIST_FILE = ModeloramaNowTEST/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -526,8 +526,8 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.AppsFlyer.AppsFlyerExample;
-				PRODUCT_NAME = AppsFlyerExample;
+				PRODUCT_BUNDLE_IDENTIFIER = com.AppsFlyer.ModeloramaNowTEST;
+				PRODUCT_NAME = ModeloramaNowTEST;
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -659,7 +659,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "AppsFlyerExampleTests" */ = {
+		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "ModeloramaNowTESTTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				00E356F61AD99517003FC87E /* Debug */,
@@ -668,7 +668,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "AppsFlyerExample" */ = {
+		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "ModeloramaNowTEST" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				13B07F941A680F5B00A75B9A /* Debug */,
@@ -677,7 +677,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "AppsFlyerExample" */ = {
+		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "ModeloramaNowTEST" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				83CBBA201A601CBA00E9B192 /* Debug */,
